@@ -1,0 +1,13 @@
+dir = "@A3CN_Fardas";
+name = "A3CN Fardas Mod";
+actionName = "Website";
+action = "http://www.a3cn.com.br";
+logo = "\a3cn_fardas\data\mod.paa";
+logoOver = "\a3cn_fardas\data\mod.paa";
+tooltip = "A3CN Fardas Mod";
+tooltipOwned = "A3CN Fardas Mod Owned";
+overview = "A3CN Fardas is a mod containing a variet of uniforms, vests and others equipaments using the TSG study as base for the camo";
+author = "Hippye | Textures by TSG Mod Team | Re-textures by NFC3SPECTRO";
+overviewPicture = "\a3cn_fardas\data\mod.paa";
+overviewText = "A3CN Fardas Mod";
+logosmall = "\a3cn_fardas\data\mod_small.paa";
